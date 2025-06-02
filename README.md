@@ -1,10 +1,10 @@
-# 📱 phone_settings
+#  phone_settings
 
 This Flutter app presents a **settings screen** that mimics a typical smartphone layout. Users can view and interact with toggles, sectioned settings, and options such as Wi-Fi, Bluetooth, Notifications, and more. It is structured using common Flutter widgets like `ListView`, `ListTile`, and `SwitchListTile`.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 This project is a great starting point for building a mobile UI for a settings screen using Flutter.
 
@@ -16,19 +16,18 @@ This project is a great starting point for building a mobile UI for a settings s
 
 To run the project:
 
-```bash
 flutter pub get
 flutter run
 📦 Features
-✅ Scrollable list of settings using ListView
+  Scrollable list of settings using ListView
 
-✅ Toggle switches for key settings like:
+  Toggle switches for key settings like:
 
-Wi-Fi
+  Wi-Fi
 
-Bluetooth
+  Bluetooth
 
-Notifications
+   Notifications
 
 ✅ Icon and title display for each setting
 
@@ -36,56 +35,20 @@ Notifications
 
 ✅ Auto scrolls when content overflows
 
-🖼 Screenshots
+
 📱 Portrait Mode
 
-![image](https://github.com/user-attachments/assets/3a6422a1-bdc1-493b-a4b0-6fe925cd8a53)
+ ## ![image](https://github.com/user-attachments/assets/3a6422a1-bdc1-493b-a4b0-6fe925cd8a53)
 
 
 📱 Landscape Mode
 
 
-💡 Widgets Used
-Widget	Description
-ListView	Scrollable vertical list of settings
-SwitchListTile	Combines switch + icon + title for toggleable settings
-ListTile	For fixed items or navigation options
-Divider	Visually separates sections
-Icon	Adds context to each setting item
 
-📁 Project Structure
-css
-Copy
-Edit
-lib/
-├── main.dart
-└── settings_screen.dart
-✨ Customization Tips
-Add new settings using SwitchListTile or ListTile
 
-Use SharedPreferences or Provider to persist toggle states
 
-Customize icons, titles, and themes to match your app’s design
-
-📚 Resources
-If you're new to Flutter, check out:
-
-Flutter Official Docs
-
-Flutter Widgets Catalog
-
-State Management Guide
-
-🧑‍💻 Author
-Made with ❤️ using Flutter.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like to export this to a `.md` file or personalize it with your name or GitHub repo!
+🧑‍💻 Author: Pauline
+Made with  using Flutter.
 
 
 
