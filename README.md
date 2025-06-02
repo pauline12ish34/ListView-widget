@@ -16,6 +16,8 @@ This project is a great starting point for building a mobile UI for a settings s
 
 To run the project:
 
+git clone https://github.com/pauline12ish34/ListView-widget
+cd ListView_widget
 flutter pub get
 flutter run
 📦 Features
@@ -42,6 +44,7 @@ flutter run
 
 
 📱 Landscape Mode
+#![image](https://github.com/user-attachments/assets/2d811f91-8139-46b2-9e84-90211876697f)
 
 
 
