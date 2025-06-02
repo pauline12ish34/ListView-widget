@@ -38,7 +38,7 @@ flutter run
 
 📱 Portrait Mode
 
- ## ![image](https://github.com/user-attachments/assets/3a6422a1-bdc1-493b-a4b0-6fe925cd8a53)
+ #![image](https://github.com/user-attachments/assets/3a6422a1-bdc1-493b-a4b0-6fe925cd8a53)
 
 
 📱 Landscape Mode
