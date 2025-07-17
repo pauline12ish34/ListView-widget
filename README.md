@@ -18,7 +18,7 @@ To run the project:
 
 git clone https://github.com/pauline12ish34/ListView-widget
 
-bash```
+```bash
 cd ListView_widget
 flutter pub get
 flutter run
