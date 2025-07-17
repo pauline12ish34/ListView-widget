@@ -17,19 +17,15 @@ This project is a great starting point for building a mobile UI for a settings s
 To run the project:
 
 git clone https://github.com/pauline12ish34/ListView-widget
+
+bash```
 cd ListView_widget
 flutter pub get
 flutter run
+```
 📦 Features
   Scrollable list of settings using ListView
-
-  Toggle switches for key settings like:
-
-  Wi-Fi
-
-  Bluetooth
-
-   Notifications
+  
 
 ✅ Icon and title display for each setting
 
